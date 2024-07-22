@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdTech.ZenMobile.Models", "AdTech.ZenMobile.Models\AdTech.ZenMobile.Models.csproj", "{FD6842A3-F06B-4038-ADDC-3675F2429EDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdTech.ZenMobile.ModelsLogic", "AdTech.ZenMobile.ModelsLogic\AdTech.ZenMobile.ModelsLogic.csproj", "{66CF7261-0E2C-4531-9F6D-72172BD4405A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdTech.ZenMobile.App", "AdTech.ZenMobile.App\AdTech.ZenMobile.App.csproj", "{BD4BB4DB-DC7E-4161-9C1F-B8BFE44C0451}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD6842A3-F06B-4038-ADDC-3675F2429EDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD6842A3-F06B-4038-ADDC-3675F2429EDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD6842A3-F06B-4038-ADDC-3675F2429EDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD6842A3-F06B-4038-ADDC-3675F2429EDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66CF7261-0E2C-4531-9F6D-72172BD4405A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66CF7261-0E2C-4531-9F6D-72172BD4405A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66CF7261-0E2C-4531-9F6D-72172BD4405A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66CF7261-0E2C-4531-9F6D-72172BD4405A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD4BB4DB-DC7E-4161-9C1F-B8BFE44C0451}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD4BB4DB-DC7E-4161-9C1F-B8BFE44C0451}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD4BB4DB-DC7E-4161-9C1F-B8BFE44C0451}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD4BB4DB-DC7E-4161-9C1F-B8BFE44C0451}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {901410B5-B547-49DB-9956-BD9E3DCB7247}
+	EndGlobalSection
+EndGlobal
